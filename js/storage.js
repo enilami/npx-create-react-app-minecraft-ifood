@@ -1,0 +1,1 @@
+// Funções para lidar com localStorage

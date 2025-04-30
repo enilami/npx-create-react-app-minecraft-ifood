@@ -1,0 +1,1 @@
+// Script da tela de detalhes
